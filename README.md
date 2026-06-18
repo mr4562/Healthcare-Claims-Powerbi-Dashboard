@@ -54,10 +54,10 @@ Healthcare billing teams can use this dashboard to:
 | Department Analysis | Department workload tracking |
 ---
 ## Dashboard Preview
-### Main Dashboard
-![Dashboard Overview](Screenshots/Dashboard_Overview.png)
-### Visual Analytics
-![Dashboard Visualizations](Screenshots/Dashboard_Visualizations.png)
+### Dashboard Filters
+![Dashboard Filters](Dashboard_Filters.png)
+### Dashboard Visualizations
+![Dashboard Visualizations](Dashboard_Visualizations.png)
 ---
 ## Author
 Mitesh Rana
